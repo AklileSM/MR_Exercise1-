@@ -21,7 +21,8 @@ setup(
     entry_points={
         'console_scripts': [
             'straight_line = turtlesim_pde4430.scripts.StraightLine:main',
-            'circle = turtlesim_pde4430.scripts.Circle:main'
+            'circle = turtlesim_pde4430.scripts.Circle:main',
+            'figure_eight = turtlesim_pde4430.scripts.FigureEight:main'
         ],
     },
 )

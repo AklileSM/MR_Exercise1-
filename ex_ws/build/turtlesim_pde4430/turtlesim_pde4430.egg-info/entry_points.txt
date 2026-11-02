@@ -1,3 +1,4 @@
 [console_scripts]
 circle = turtlesim_pde4430.scripts.Circle:main
+figure_eight = turtlesim_pde4430.scripts.FigureEight:main
 straight_line = turtlesim_pde4430.scripts.StraightLine:main

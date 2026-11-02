@@ -2,10 +2,12 @@
 /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430/scripts/Circle.py
 /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430/scripts/__init__.py
 /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430/scripts/StraightLine.py
+/home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430/scripts/FigureEight.py
 /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430/__pycache__/__init__.cpython-312.pyc
 /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430/scripts/__pycache__/Circle.cpython-312.pyc
 /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430/scripts/__pycache__/__init__.cpython-312.pyc
 /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430/scripts/__pycache__/StraightLine.cpython-312.pyc
+/home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430/scripts/__pycache__/FigureEight.cpython-312.pyc
 /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/share/ament_index/resource_index/packages/turtlesim_pde4430
 /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/share/turtlesim_pde4430/package.xml
 /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430-0.0.0-py3.12.egg-info/top_level.txt
@@ -16,4 +18,5 @@
 /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430-0.0.0-py3.12.egg-info/SOURCES.txt
 /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430-0.0.0-py3.12.egg-info/zip-safe
 /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/turtlesim_pde4430/circle
+/home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/turtlesim_pde4430/figure_eight
 /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/turtlesim_pde4430/straight_line

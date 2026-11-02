@@ -1,0 +1,26 @@
+[0.380s] Invoking command in '/home/aklile/Desktop/MR_Exercise1-/ex_ws/src/turtlesim_pde4430': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_pde4430 build --build-base /home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build install --record /home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/install.log --install-scripts $base/lib/turtlesim_pde4430 --single-version-externally-managed install_data
+[0.511s] running egg_info
+[0.520s] writing ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/PKG-INFO
+[0.520s] writing dependency_links to ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/dependency_links.txt
+[0.520s] writing entry points to ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/entry_points.txt
+[0.520s] writing requirements to ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/requires.txt
+[0.520s] writing top-level names to ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/top_level.txt
+[0.538s] reading manifest file '../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/SOURCES.txt'
+[0.538s] writing manifest file '../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/SOURCES.txt'
+[0.538s] running build
+[0.538s] running build_py
+[0.539s] copying turtlesim_pde4430/scripts/FigureEight.py -> /home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build/lib/turtlesim_pde4430/scripts
+[0.539s] running install
+[0.542s] running install_lib
+[0.551s] copying /home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build/lib/turtlesim_pde4430/scripts/FigureEight.py -> /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430/scripts
+[0.551s] byte-compiling /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430/scripts/FigureEight.py to FigureEight.cpython-312.pyc
+[0.552s] running install_data
+[0.552s] running install_egg_info
+[0.561s] removing '/home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430-0.0.0-py3.12.egg-info' (and everything under it)
+[0.562s] Copying ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info to /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430-0.0.0-py3.12.egg-info
+[0.562s] running install_scripts
+[0.623s] Installing circle script to /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/turtlesim_pde4430
+[0.623s] Installing figure_eight script to /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/turtlesim_pde4430
+[0.623s] Installing straight_line script to /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/turtlesim_pde4430
+[0.623s] writing list of installed files to '/home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/install.log'
+[0.637s] Invoked command in '/home/aklile/Desktop/MR_Exercise1-/ex_ws/src/turtlesim_pde4430' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_pde4430 build --build-base /home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build install --record /home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/install.log --install-scripts $base/lib/turtlesim_pde4430 --single-version-externally-managed install_data

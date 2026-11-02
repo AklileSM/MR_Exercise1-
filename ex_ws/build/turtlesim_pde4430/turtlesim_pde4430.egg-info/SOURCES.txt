@@ -14,5 +14,6 @@ test/test_flake8.py
 test/test_pep257.py
 turtlesim_pde4430/__init__.py
 turtlesim_pde4430/scripts/Circle.py
+turtlesim_pde4430/scripts/FigureEight.py
 turtlesim_pde4430/scripts/StraightLine.py
 turtlesim_pde4430/scripts/__init__.py
