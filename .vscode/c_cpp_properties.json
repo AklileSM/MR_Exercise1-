@@ -1,0 +1,36 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/smart/ros2_workspace/install/go2_driver/include/**",
+        "/home/smart/ros2_workspace/install/unitree_go/include/**",
+        "/home/smart/ros2_workspace/install/unitree_api/include/**",
+        "/home/smart/ros2_workspace/install/spot_ros2_control/include/**",
+        "/home/smart/ros2_workspace/install/spot_driver/include/**",
+        "/home/smart/ros2_workspace/install/spot_msgs/include/**",
+        "/home/smart/ros2_workspace/install/spot_hardware_interface/include/**",
+        "/home/smart/ros2_workspace/install/spot_controllers/include/**",
+        "/home/smart/ros2_workspace/install/scanmatcher/include/**",
+        "/home/smart/ros2_workspace/install/openslam_gmapping/include/**",
+        "/home/smart/ros2_workspace/install/graph_based_slam/include/**",
+        "/home/smart/ros2_workspace/install/ndt_omp_ros2/include/**",
+        "/home/smart/ros2_workspace/install/livox_ros_driver2/include/**",
+        "/home/smart/ros2_workspace/install/lio_sam/include/**",
+        "/home/smart/ros2_workspace/install/lidarslam_msgs/include/**",
+        "/home/smart/ros2_workspace/install/go2_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ros2",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,35 @@
+{
+    "ROS2.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/smart/ros2_workspace/install/unitree_go/local/lib/python3.10/dist-packages",
+        "/home/smart/ros2_workspace/install/unitree_api/local/lib/python3.10/dist-packages",
+        "/home/smart/ros2_workspace/install/spot_examples/lib/python3.10/site-packages",
+        "/home/smart/ros2_workspace/install/spot_driver/local/lib/python3.10/dist-packages",
+        "/home/smart/ros2_workspace/install/bdai_ros2_wrappers/lib/python3.10/site-packages",
+        "/home/smart/ros2_workspace/install/synchros2/lib/python3.10/site-packages",
+        "/home/smart/ros2_workspace/install/spot_wrapper/lib/python3.10/site-packages",
+        "/home/smart/ros2_workspace/install/spot_msgs/local/lib/python3.10/dist-packages",
+        "/home/smart/ros2_workspace/install/livox_ros_driver2/local/lib/python3.10/dist-packages",
+        "/home/smart/ros2_workspace/install/lio_sam/local/lib/python3.10/dist-packages",
+        "/home/smart/ros2_workspace/install/lidarslam_msgs/local/lib/python3.10/dist-packages",
+        "/home/smart/ros2_workspace/install/go2_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/smart/ros2_workspace/install/unitree_go/local/lib/python3.10/dist-packages",
+        "/home/smart/ros2_workspace/install/unitree_api/local/lib/python3.10/dist-packages",
+        "/home/smart/ros2_workspace/install/spot_examples/lib/python3.10/site-packages",
+        "/home/smart/ros2_workspace/install/spot_driver/local/lib/python3.10/dist-packages",
+        "/home/smart/ros2_workspace/install/bdai_ros2_wrappers/lib/python3.10/site-packages",
+        "/home/smart/ros2_workspace/install/synchros2/lib/python3.10/site-packages",
+        "/home/smart/ros2_workspace/install/spot_wrapper/lib/python3.10/site-packages",
+        "/home/smart/ros2_workspace/install/spot_msgs/local/lib/python3.10/dist-packages",
+        "/home/smart/ros2_workspace/install/livox_ros_driver2/local/lib/python3.10/dist-packages",
+        "/home/smart/ros2_workspace/install/lio_sam/local/lib/python3.10/dist-packages",
+        "/home/smart/ros2_workspace/install/lidarslam_msgs/local/lib/python3.10/dist-packages",
+        "/home/smart/ros2_workspace/install/go2_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
