@@ -1,0 +1,33 @@
+[0.372s] Invoking command in '/home/aklile/Desktop/MR_Exercise1-/ex_ws/src/turtlesim_pde4430': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_pde4430 build --build-base /home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build install --record /home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/install.log --install-scripts $base/lib/turtlesim_pde4430 --single-version-externally-managed install_data
+[0.494s] running egg_info
+[0.503s] writing ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/PKG-INFO
+[0.503s] writing dependency_links to ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/dependency_links.txt
+[0.503s] writing entry points to ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/entry_points.txt
+[0.503s] writing requirements to ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/requires.txt
+[0.503s] writing top-level names to ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/top_level.txt
+[0.519s] reading manifest file '../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/SOURCES.txt'
+[0.520s] writing manifest file '../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/SOURCES.txt'
+[0.520s] running build
+[0.520s] running build_py
+[0.520s] creating /home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build/lib/turtlesim_pde4430/scripts
+[0.520s] copying turtlesim_pde4430/scripts/Circle.py -> /home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build/lib/turtlesim_pde4430/scripts
+[0.520s] copying turtlesim_pde4430/scripts/__init__.py -> /home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build/lib/turtlesim_pde4430/scripts
+[0.520s] copying turtlesim_pde4430/scripts/StraightLine.py -> /home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build/lib/turtlesim_pde4430/scripts
+[0.520s] running install
+[0.523s] running install_lib
+[0.532s] creating /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430/scripts
+[0.532s] copying /home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build/lib/turtlesim_pde4430/scripts/Circle.py -> /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430/scripts
+[0.532s] copying /home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build/lib/turtlesim_pde4430/scripts/__init__.py -> /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430/scripts
+[0.532s] copying /home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build/lib/turtlesim_pde4430/scripts/StraightLine.py -> /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430/scripts
+[0.532s] byte-compiling /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430/scripts/Circle.py to Circle.cpython-312.pyc
+[0.532s] byte-compiling /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430/scripts/__init__.py to __init__.cpython-312.pyc
+[0.532s] byte-compiling /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430/scripts/StraightLine.py to StraightLine.cpython-312.pyc
+[0.533s] running install_data
+[0.533s] running install_egg_info
+[0.542s] removing '/home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430-0.0.0-py3.12.egg-info' (and everything under it)
+[0.542s] Copying ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info to /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages/turtlesim_pde4430-0.0.0-py3.12.egg-info
+[0.543s] running install_scripts
+[0.600s] Installing circle script to /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/turtlesim_pde4430
+[0.600s] Installing straight_line script to /home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/turtlesim_pde4430
+[0.600s] writing list of installed files to '/home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/install.log'
+[0.613s] Invoked command in '/home/aklile/Desktop/MR_Exercise1-/ex_ws/src/turtlesim_pde4430' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aklile/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_pde4430 build --build-base /home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build install --record /home/aklile/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/install.log --install-scripts $base/lib/turtlesim_pde4430 --single-version-externally-managed install_data
