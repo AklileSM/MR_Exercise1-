@@ -1,0 +1,32 @@
+running egg_info
+creating ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info
+writing ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/entry_points.txt
+writing requirements to ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/requires.txt
+writing top-level names to ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/top_level.txt
+writing manifest file '../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/smart/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build
+creating /home/smart/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build/lib
+creating /home/smart/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build/lib/turtlesim_pde4430
+copying turtlesim_pde4430/__init__.py -> /home/smart/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build/lib/turtlesim_pde4430
+running install
+running install_lib
+creating /home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.10/site-packages/turtlesim_pde4430
+copying /home/smart/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build/lib/turtlesim_pde4430/__init__.py -> /home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.10/site-packages/turtlesim_pde4430
+byte-compiling /home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.10/site-packages/turtlesim_pde4430/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/share/ament_index
+creating /home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/share/ament_index/resource_index
+creating /home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/share/ament_index/resource_index/packages
+copying resource/turtlesim_pde4430 -> /home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/share/ament_index/resource_index/packages
+copying package.xml -> /home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/share/turtlesim_pde4430
+running install_egg_info
+Copying ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info to /home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.10/site-packages/turtlesim_pde4430-0.0.0-py3.10.egg-info
+running install_scripts
+Installing straight_line script to /home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/turtlesim_pde4430
+writing list of installed files to '/home/smart/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/install.log'

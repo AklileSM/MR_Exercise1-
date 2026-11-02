@@ -1,0 +1,34 @@
+[0.349s] Invoking command in '/home/smart/Desktop/MR_Exercise1-/ex_ws/src/turtlesim_pde4430': PYTHONPATH=/home/smart/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_pde4430 build --build-base /home/smart/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build install --record /home/smart/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/install.log --single-version-externally-managed install_data
+[0.490s] running egg_info
+[0.490s] creating ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info
+[0.490s] writing ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/PKG-INFO
+[0.491s] writing dependency_links to ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/dependency_links.txt
+[0.491s] writing entry points to ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/entry_points.txt
+[0.491s] writing requirements to ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/requires.txt
+[0.491s] writing top-level names to ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/top_level.txt
+[0.491s] writing manifest file '../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/SOURCES.txt'
+[0.491s] reading manifest file '../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/SOURCES.txt'
+[0.492s] writing manifest file '../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info/SOURCES.txt'
+[0.492s] running build
+[0.492s] running build_py
+[0.492s] creating /home/smart/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build
+[0.492s] creating /home/smart/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build/lib
+[0.492s] creating /home/smart/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build/lib/turtlesim_pde4430
+[0.492s] copying turtlesim_pde4430/__init__.py -> /home/smart/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build/lib/turtlesim_pde4430
+[0.492s] running install
+[0.492s] running install_lib
+[0.493s] creating /home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.10/site-packages/turtlesim_pde4430
+[0.493s] copying /home/smart/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build/lib/turtlesim_pde4430/__init__.py -> /home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.10/site-packages/turtlesim_pde4430
+[0.493s] byte-compiling /home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.10/site-packages/turtlesim_pde4430/__init__.py to __init__.cpython-310.pyc
+[0.493s] running install_data
+[0.493s] creating /home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/share/ament_index
+[0.493s] creating /home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/share/ament_index/resource_index
+[0.493s] creating /home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/share/ament_index/resource_index/packages
+[0.493s] copying resource/turtlesim_pde4430 -> /home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/share/ament_index/resource_index/packages
+[0.493s] copying package.xml -> /home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/share/turtlesim_pde4430
+[0.493s] running install_egg_info
+[0.494s] Copying ../../build/turtlesim_pde4430/turtlesim_pde4430.egg-info to /home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.10/site-packages/turtlesim_pde4430-0.0.0-py3.10.egg-info
+[0.494s] running install_scripts
+[0.504s] Installing straight_line script to /home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/turtlesim_pde4430
+[0.504s] writing list of installed files to '/home/smart/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/install.log'
+[0.516s] Invoked command in '/home/smart/Desktop/MR_Exercise1-/ex_ws/src/turtlesim_pde4430' returned '0': PYTHONPATH=/home/smart/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/smart/Desktop/MR_Exercise1-/ex_ws/install/turtlesim_pde4430/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_pde4430 build --build-base /home/smart/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/build install --record /home/smart/Desktop/MR_Exercise1-/ex_ws/build/turtlesim_pde4430/install.log --single-version-externally-managed install_data

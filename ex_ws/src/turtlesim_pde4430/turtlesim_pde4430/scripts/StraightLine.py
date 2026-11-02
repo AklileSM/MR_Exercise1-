@@ -18,4 +18,8 @@ class StraightLine(Node):
 def main():  
     rclpy.init() 
     rclpy.spin(StraightLine()) 
-    rclpy.shutdown()  
+    rclpy.shutdown()
+
+
+if __name__ == '__main__':
+    main()
