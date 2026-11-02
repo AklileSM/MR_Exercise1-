@@ -12,7 +12,7 @@ class Circle(Node):
         self.pub = self.create_publisher(Twist, '/turtle1/cmd_vel', 10) 
         self.timer = self.create_timer(0.1, self.tick)  
 
-    def tick(self):  # Timer callback
+    def tick(self):
         msg = Twist()
         msg.linear.x = self.linear_speed 
         msg.angular.z = self.angular_speed  
